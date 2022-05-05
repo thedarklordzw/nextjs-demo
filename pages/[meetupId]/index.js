@@ -1,5 +1,4 @@
 import MeetupDetail from '../../components/meetups/MeetupDetail';
-import { MongoClient } from 'mongodb';
 
 const dataProps = {
   title: 'The first meetup',
