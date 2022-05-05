@@ -1,5 +1,4 @@
 import MeetupList from '../components/meetups/MeetupList';
-
 import Head from 'next/head';
 import React from 'react';
 
